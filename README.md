@@ -30,7 +30,7 @@ debug("Hello from here");
 
 This is what you will see:
 
-    $ APP_NAME=example node myapp/index.js
+    $ APP_NAME=example DEBUG=example* node myapp/index.js
     example(27720):lib:controllers:foo Hello from here +1ms
 
 ## License
