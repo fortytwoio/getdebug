@@ -1,0 +1,27 @@
+{
+  "name": "getdebug",
+  "version": "1.0.0",
+  "description": "Returns a visionmedia/debug instance with the namespace set to a prefixed application name. The path to the javascript file gets relatively namespaced based on the absolute path and the given namespace in the actual node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "debug",
+    "logging"
+  ],
+  "author": "Thomas Fritz <fritztho@gmail.com> (http://www.fritzthomas.com)",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasfr/getdebug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thomasfr/getdebug/issues"
+  },
+  "homepage": "https://github.com/thomasfr/getdebug"
+}
