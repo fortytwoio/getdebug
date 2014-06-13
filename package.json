@@ -1,6 +1,6 @@
 {
   "name": "getdebug",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Returns a visionmedia/debug instance with the namespace set to a prefixed application name. The path to the javascript file gets relatively namespaced based on the absolute path and the given namespace in the actual node module",
   "main": "index.js",
   "scripts": {
